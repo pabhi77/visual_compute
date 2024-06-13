@@ -1,0 +1,11 @@
+Example,Color,Type,Origin,stolen
+1,Red,Sports,Domestic,Yes
+2,Red,Sports,Domestic,No
+3,Red,Sports,Domestic,Yes
+4,Blue,Sports,Domestic,No
+5,Blue,Sports,Imported,Yes
+6,Blue,SUV,Imported,No
+7,Blue,SUV,Imported,Yes
+8,Blue,SUV,Domestic,No
+9,Red,SUV,Imported,No
+10,Red,Sports,Imported,Yes
